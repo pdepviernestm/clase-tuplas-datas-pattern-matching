@@ -4,7 +4,7 @@ Código de la clase sobre tuplas, datas y pattern matching
 ## Ejecución
 para levantar el interprete con nuestro código solo levantar una consola pararse dentro del proyecto y ejecutar stack ghci
  
-## Repaso de la clase
+## Te lo resumo así nomás
 El archivo Library.hs tiene el código final de la clase con distintas partes que dejamos comentadas de como fue el proceso y aclaraciones sobre lo que fuimos hiciendo. Recordando un poco el paso a paso:
 
 - Empezamos haciendo un repaso de que es un programa, llegamos a la idea de modelo y como nuestros programas son modelos que se pueden ejecutar
@@ -25,7 +25,7 @@ El archivo Library.hs tiene el código final de la clase con distintas partes qu
 
 - Hablamos un poco sobre diseño y el equilibrio que tenemos de buscar (Modelamos los 12 posibles valores como un tipo nuevo o aceptamos dejarlos como Números con el costo que este conlleva). 
 
-- Introdujimos finalmente el comodin como otra Carta mas, vimos como el Pattern Matching nos sirve para establecer distintas definiciones para una misma función cada una para un patron distinto. 
+- Introdujimos finalmente el comodin como otra Carta mas, vimos como el Pattern Matching nos sirve para establecer distintas definiciones para una misma función cada una para un patrón distinto. 
 
 notas:
 - Hablamos cross a toda la clase sobre inferencia de tipos y como haskell infiere solo (y mucho mejor que nosotros) el tipo de nuestras funciones a partir de como las definimos. Pero tambien podemos restringir el tipo de una función para que pueda ser usada con menos valores posibles que los que haskell puede inferir.
