@@ -31,5 +31,5 @@ notas:
 - Hablamos cross a toda la clase sobre inferencia de tipos y como haskell infiere solo (y mucho mejor que nosotros) el tipo de nuestras funciones a partir de como las definimos. Pero tambien podemos restringir el tipo de una función para que pueda ser usada con menos valores posibles que los que haskell puede inferir.
 - Nombramos lo que es una type class `(Show, Eq)` y porque es necesario a veces usar un `deriving` para nuestros tipos de datos nuevos. (más adelante vamos a meternos un poco mas en el tema)
 
-##Link al video de la clase
+## Link al video de la clase
 https://drive.google.com/file/d/1t_JGMq47zeUBd1nUfY_eJun--Xc7s45d/view
