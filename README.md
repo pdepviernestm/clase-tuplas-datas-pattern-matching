@@ -23,7 +23,7 @@ El archivo Library.hs tiene el código final de la clase con distintas partes qu
 
 - Vimos como usar constructores para modelar los `Palos` y dejar de usar `Strings` lo que nos da la ventaja sobre los posibles valores que puede tomar el elemento `palo` de nuestro tipo de dato `Carta`.
 
-- Hablamos un poco sobre diseño y el equilibrio que tenemos de buscar (Modelamos los 12 posibles valores como un tipo nuevo o aceptamos dejarlos como Números con el costo que este conlleva). 
+- Hablamos un poco sobre diseño y el equilibrio que tenemos de buscar (¿Modelamos los 12 posibles valores como un tipo nuevo o aceptamos dejarlos como Números con el costo que este conlleva?). 
 
 - Introdujimos finalmente el comodin como otra Carta mas, vimos como el Pattern Matching nos sirve para establecer distintas definiciones para una misma función cada una para un patrón distinto. 
 
