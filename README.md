@@ -27,7 +27,7 @@ El archivo Library.hs tiene el código final de la clase con distintas partes qu
 
 - Introdujimos finalmente el comodin como otra Carta mas, vimos como el Pattern Matching nos sirve para establecer distintas definiciones para una misma función cada una para un patrón distinto. 
 
-notas:
+### notas:
 - Hablamos cross a toda la clase sobre inferencia de tipos y como haskell infiere solo (y mucho mejor que nosotros) el tipo de nuestras funciones a partir de como las definimos. Pero tambien podemos restringir el tipo de una función para que pueda ser usada con menos valores posibles que los que haskell puede inferir.
 - Nombramos lo que es una type class `(Show, Eq)` y porque es necesario a veces usar un `deriving` para nuestros tipos de datos nuevos. (más adelante vamos a meternos un poco mas en el tema)
 
